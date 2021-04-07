@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">W10_28897</string>
-    <string name="ToAsyncTask">Tutorial Async Task</string>
-    <string name="ToAsyncTaskLoader">Tutorial Async Task Loader</string>
-    <string name="ToServices">Tutorial Services</string>
-    <string name="MulaiService">Mulai Service</string>
-    <string name="MulaiWaktu">Tampilkan Waktu</string>
-</resources>
