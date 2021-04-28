@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">W12_28897</string>
+    <string name="ToDeteksiSensor">Tutorial Deteksi Sensor</string>
+    <string name="ToPembacaanDataSensor">Tutorial Pembacaan Data Sensor</string>
+</resources>
